@@ -444,6 +444,4 @@ function ReadingCard({
   );
 }
 
-export default App;
-
 export default App

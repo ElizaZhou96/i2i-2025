@@ -168,7 +168,7 @@ function App() {
             <OrganizerCard
               name="Dr. Yutong Zhou"
               role="Organizer & Speaker"
-              image="https://scholar.googleusercontent.com/citations?view_op=view_photo&user=mNTk1akAAAAJ&citpid=9"
+              image="/yutong.png"
             />
             <div className="bg-white rounded-lg shadow-lg p-6">
               <h3 className="text-xl font-semibold text-[#77428D] mb-4">Personal Profile</h3>

@@ -60,7 +60,7 @@ function App() {
               </a>
               <button
                 onClick={() => setIsMenuOpen(!isMenuOpen)}
-                className="block md:hidden p-2 text-[#77428D] hover:text-[#E8B6B6] transition-colors duration-200"
+                className="block md:hidden p-2 text-[#77428D] hover:text-[#c5b3db] transition-colors duration-200"
                 aria-label="Toggle menu"
               >
                 {isMenuOpen ? <X size={24} /> : <Menu size={24} />}

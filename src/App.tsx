@@ -118,7 +118,8 @@ function App() {
           <h2 className="text-3xl font-bold text-[#77428D] mb-8 text-center">About the Tutorial</h2>
           <p className="text-lg text-gray-600 mb-8">
             This tutorial is for researchers and engineers in computer vision, natural language processing, multimodal systems, generative AI, and assistive technology. It builds on key ideas from past foundational works in video denoising, text-driven image editing, robotic manipulation, and multimodal large language models for specific fields. The session also considers critical ethical issues to address real-world challenges faced by disabled individuals. It combines lecture-style talks with hands-on activities where participants can develop a prototype system. <br /><strong className="font-bold text-gray-800"><MessageCircleHeart className="inline w-5 h-5 text-[#77428D] animate-bounce mr-2" />Whether you are a general public, a PhD student just starting, or an expert with years of interdisciplinary experience, this tutorial provides useful research perspectives and practical skills.</strong>
-            This tutorial is not only a technical session, it is an exploration of human diversity. <br /><strong className="font-bold text-gray-800"> ❗ Please note: the tutorial includes interactive simulations that may raise emotional responses. </strong> Participation is entirely optional, empathy, after all, begins with consent.
+            
+            This tutorial is not a pure technical session, it is an exploration of human diversity. <br /><strong className="font-bold text-gray-800"> ❗ Please note: the tutorial includes interactive simulations that may raise emotional responses. </strong> Participation is entirely optional, empathy, after all, begins with consent.
           </p>
 
           {/* Target Audience */}

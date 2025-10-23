@@ -234,7 +234,7 @@ function App() {
                   <HandHeart className="w-4 h-4 text-[#77428D]" />
                   [Hands-on] Building & Testing Accessible AI Systems 
                   <a href="https://github.com/ElizaZhou96/i2i-hands-on" className="text-gray-600 hover:text-[#77428D]">
-                  <Github size={60} />
+                  <Github size={40} />
                 </a>
                 </span>
               }              

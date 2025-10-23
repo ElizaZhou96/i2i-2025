@@ -89,8 +89,10 @@ function App() {
           <h1 className="text-4xl font-bold text-[#77428D] mb-4">
             Insight to Impact: Multimodal AI for a More Accessible World
           </h1>
+          
           <p className="text-lg text-gray-600 mb-8">
             Understanding Imperfect Humans Perfectly
+            <br /><strong className="font-bold text-gray-800"> 📍Auditorium (Engineering School) </strong>
           </p>
           <div className="grid grid-cols-1 md:grid-cols-3 gap-8">
             <FeatureCard

@@ -232,7 +232,10 @@ function App() {
               title={
                 <span className="inline-flex items-center gap-1">
                   <HandHeart className="w-4 h-4 text-[#77428D]" />
-                  [Hands-on] Building & Testing Accessible AI Systems
+                  [Hands-on] Building & Testing Accessible AI Systems 
+                  <a href="https://github.com/ElizaZhou96/i2i-hands-on" className="text-gray-600 hover:text-[#77428D]">
+                  <Github size={20} />
+                </a>
                 </span>
               }              
               speaker="All Participants"
